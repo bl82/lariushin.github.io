@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><name>My document</name>
+<description>Content</description>
+<Style id="Lump2">
+<LineStyle><color>CD333333</color><width>2</width></LineStyle>
+<PolyStyle><color>9A663366</color></PolyStyle>
+</Style>
+<Style id="Lump2">
+<LineStyle><color>CDAA9955</color><width>2</width></LineStyle>
+<PolyStyle><color>9A663300</color></PolyStyle>
+</Style>
+<Style id="Lump3">
+<LineStyle><color>CD00FFFF</color><width>2</width></LineStyle>
+<PolyStyle><color>9A99FFFF</color></PolyStyle>
+</Style>
+<Style id="Path">
+<LineStyle><color>FF0000FF</color><width>3</width></LineStyle>
+</Style>
+<Style id="markerstyle">
+<IconStyle><Icon><href>
+http://maps.google.com/intl/en_us/mapfiles/ms/micons/red-dot.png
+</href></Icon></IconStyle>
+</Style>
+<Placemark><name>NAME</name>
+<description>YES</description>
+<styleUrl>#Lump3</styleUrl>
+<Polygon>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<outerBoundaryIs><LinearRing><coordinates>
+34.659119,31.840233,0.0 
+34.678345,31.832066,0.0 
+34.703064,31.830899,0.0 
+34.729843,31.823315,0.0 
+34.731903,31.815146,0.0 
+34.716797,31.794139,0.0 
+34.706497,31.782466,0.0 
+34.691391,31.772543,0.0 
+34.668045,31.750358,0.0 
+34.651566,31.719406,0.0 
+34.644012,31.703635,0.0 
+34.638519,31.694287,0.0 
+34.623413,31.638183,0.0 
+34.615173,31.622982,0.0 
+34.602127,31.600762,0.0 
+34.588394,31.582045,0.0 
+34.571228,31.557474,0.0 
+34.565048,31.539919,0.0 
+34.495010,31.482551,0.0 
+34.466171,31.458540,0.0 
+34.440079,31.435108,0.0 
+34.406433,31.408740,0.0 
+34.383087,31.391744,0.0 
+34.373474,31.371227,0.0 
+34.368668,31.360673,0.0 
+34.370041,31.334871,0.0 
+34.373474,31.310235,0.0 
+34.371414,31.297328,0.0 
+34.353561,31.281485,0.0 
+34.342575,31.272095,0.0 
+34.329529,31.255661,0.0 
+34.305496,31.249204,0.0 
+34.291077,31.239224,0.0 
+34.284210,31.232766,0.0 
+34.270477,31.219261,0.0 
+34.241638,31.294394,0.0 
+34.235458,31.297915,0.0 
+34.220352,31.321967,0.0 
+34.278030,31.370054,0.0 
+34.297256,31.389985,0.0 
+34.312363,31.401707,0.0 
+34.350128,31.433936,0.0 
+34.400253,31.488407,0.0 
+34.462051,31.555719,0.0 
+34.493637,31.595498,0.0 
+34.552689,31.675005,0.0 
+34.560242,31.683770,0.0 
+34.628220,31.793555,0.0 
+34.641953,31.819814,0.0 
+34.641953,31.826232,0.0 
+34.642639,31.834399,0.0 
+34.649506,31.839066,0.0 
+34.655685,31.842566,0.0 
+34.659119,31.840233,0.0 
+</coordinates></LinearRing></outerBoundaryIs>
+</Polygon>
+</Placemark>
+</Document>
+</kml>
